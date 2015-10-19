@@ -7,9 +7,9 @@ The **d3 visualization library (d3vl)** is a single Qlik Sense extension object 
 ### Usage
 To use the extension:
 
-1. Download the zip file of this directory and deploy to your Sense environment.
+1. Download the zip file of this directory and deploy to your Sense environment (copy to C:\Users\YOURUSER\Documents\Qlik\Sense\Extensions\).
 
-2. Open a Qlik Sense app in Edit mode and drag & drop the **d3 vis library** object onto a sheet.
+2. Open a Qlik Sense app in Edit mode and drag & drop the **d3 vis library** object onto a sheet (Open the d3vl.qvf file). 
 
 3. Add dimensions and measures and pick a chart type from the chart settings.
 
